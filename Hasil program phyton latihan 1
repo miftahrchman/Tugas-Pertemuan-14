@@ -1,0 +1,12 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:/Users/user/Documents/kuliah upb/Sem 3/Program Komputer/Pertemuan 14/Latihan 1 pertemuan 14.py 
+Jumlah karakter: 11
+Karakter terakhir: d
+Karakter index ke-2 sampai ke-4: llo
+Hilangkan spasi: HelloWorld
+Ubah ke huruf besar: HELLO WORLD
+Ubah ke huruf kecil: hello world
+Ganti H dengan J: Jello World
+>>> 
